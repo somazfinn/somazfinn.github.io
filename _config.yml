@@ -70,7 +70,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
+      read_time: false
       comments: true
       share: true # https://mmistakes.github.io/minimal-mistakes/docs/docs-2-2/#social-sharing-links
       related: true
