@@ -14,5 +14,5 @@ An A5 printable minimalist daily planner template with a to-do list and water/fi
 
 It's free to use, but commercial uses are not allowed.
 
-You can download the pdf file below:<br/>
+You can download the pdf file here:<br/>
 [a5_daily_basic.pdf]({{ site.url }}{{ site.baseurl }}/assets/pdfs/a5_daily_basic.pdf){:target="_blank"}
