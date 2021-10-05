@@ -8,9 +8,9 @@ header:
   teaser: assets/images/a5-weekly-basic_thumbnail.png
 ---
 
-![thumbnail]({{ site.url }}{{ site.baseurl }}/assets/images/a5-weekly-basic_thumbnail.png)
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/a5-weekly-basic_thumbnail.png)
 
-An A5 printable minimalist weekly planner template, with a list for weekly goals and a habit tracker.
+An A5 printable minimalist weekly planner template with a list for weekly goals and a habit tracker. The grids are 5mm * 5mm.
 
 Free to use, but commercial uses are not allowed.
 

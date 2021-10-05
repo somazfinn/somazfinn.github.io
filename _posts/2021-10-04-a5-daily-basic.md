@@ -10,9 +10,9 @@ header:
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/a5-daily-basic_thumbnail.png)
 
-An A5 printable minimalist daily planner template, with a to-do list and water/fitness/sleep trackers.
+An A5 printable minimalist daily planner template with a to-do list and water/fitness/sleep trackers. The grids are 5mm * 5mm.
 
-Free to use, but commercial uses are not allowed.
+It's free to use, but commercial uses are not allowed.
 
 You can download the pdf file below:<br/>
 [a5_daily_basic.pdf]({{ site.url }}{{ site.baseurl }}/assets/pdfs/a5_daily_basic.pdf){:target="_blank"}
